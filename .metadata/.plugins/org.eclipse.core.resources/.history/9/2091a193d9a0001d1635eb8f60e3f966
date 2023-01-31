@@ -1,0 +1,9 @@
+package estudos;
+
+public class calculadorDePorcentagem {
+	public static void main (String[] args) {
+		float salario = 2403.98F;
+		
+	}
+
+}

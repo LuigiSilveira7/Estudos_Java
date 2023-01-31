@@ -1,0 +1,9 @@
+package estudos;
+
+public class AulaDeCondicionais {
+	public static void main(String[] args) {
+		if(true);
+		System.out.println("dentro do if");
+		
+	}
+}
