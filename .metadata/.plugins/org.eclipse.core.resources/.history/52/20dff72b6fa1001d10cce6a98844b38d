@@ -7,8 +7,7 @@ public class calculadorDePorcentagem {
 		float resultado = salario * porcentagem / 100;
 		System.out.println("O resultado de 30% do seu salario eh de " + resultado);
 		System.out.println(" caralhada " + porcentagem);
-	
-		float salvario = 122;
+				
 	}
 
 }
